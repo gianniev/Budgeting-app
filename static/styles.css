@@ -1,0 +1,29 @@
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+body {
+  background-color: black;
+}
+h1 {
+  color: #d1baba;
+}
+
+p {
+  color: #d1baba;
+  padding: 14px 28px; 
+}
+
+ion-button {
+  color: #d1baba;       /* Color del texto */
+  border-radius: 8px;    /* Bordes redondeados */
+  padding: 12px 24px;   /* Espaciado interno */
+  font-size: 16px;   /* Tamaño de la fuente */
+  font-weight: bold; /* Peso de la fuente */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+  text-transform: uppercase;
+  transition:  color 0.3s ease; /* Efecto pasar ratón */
+}
+
+/*# sourceMappingURL=styles.css.map */
